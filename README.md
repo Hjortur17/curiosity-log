@@ -50,6 +50,6 @@ Evolving log of the tech, tools, and concepts I’m likely to explore
 ## Other ides
 | Topic                    | Status   | Notes                    |
 | :------------------------|:--------:| :------------------------|
-| Laravel Nova             | 🚦       |                          |
+| |        |                          |
 
 
