@@ -20,9 +20,10 @@ Evolving log of the tech, tools, and concepts I’m likely to explore
 ⸻
 
 ## Frontend
-| Topic         | Status   | Notes                    |
-| ------------- |:--------:| :------------------------|
-| Svelte JS     | 🚦       |                          |
+| Topic         | Status   | Notes                                           |
+| ------------- |:--------:| :-----------------------------------------------|
+| Svelte JS     | 🚦       |                                                 |
+| Motion        | 🚦       | https://laracasts.com/series/motion-for-the-web |
 
 
 ## Backend
